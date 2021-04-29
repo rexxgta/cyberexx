@@ -1,0 +1,87 @@
+body {
+    overflow: hidden;
+    background-image: url("https://github.com/rexxgta/cyberworld/blob/main/global_files/screen_image.png?raw=true"), url("https://github.com/rexxgta/cyberworld/blob/main/global_files/judys_workspace_judys_apartment.png?raw=true");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+	cursor: url("global_files/cursors/cursor.cur");
+}
+#center {
+    text-align: center;
+    margin: 0 auto;
+}
+.mainscreenboxleft {
+    background: rgba(66, 118, 120, 0.1);
+    border: 1px solid #63ecfd;
+    border-radius: 0px;
+    display: inline-block;
+    width: 150px;
+    height: 450px;
+    padding: 10px;
+    max-width: 450px;
+    text-align: left;
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 275px;
+    box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
+}
+.mainscreenboxcenter {
+    background: rgba(66, 118, 120, 0.1);
+    border: 1px solid #63ecfd;
+    border-radius: 0px;
+    display: inline-block;
+    width: 150px;
+    height: 450px;
+    padding: 10px;
+    max-width: 450px;
+    text-align: left;
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 275px;
+    box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
+}
+.mainscreenboxright {
+    background: rgba(66, 118, 120, 0.1);
+    border: 1px solid #63ecfd;
+    border-radius: 0px;
+    display: inline-block;
+    width: 150px;
+    height: 450px;
+    padding: 10px;
+    max-width: 450px;
+    text-align: left;
+    font-size: 20px;
+    margin: 10px;
+    margin-top: 275px;
+    box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
+}
+#topline {
+	position: fixed;
+	display: inline-block;
+	top: 0;
+    width: 584px;
+    height: 2px;
+    background-color: #63ecfd;
+    margin: auto;
+	margin-top: 250px;
+    box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
+    
+}
+#bottomline {
+	position: fixed;
+	display: inline-block;
+	top: 0;
+    width: 584px;
+    height: 2px;
+    background-color: #63ecfd;
+    margin: auto;
+	margin-top: 788px;
+    box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
+    
+}
+#maintextcss {
+	color: #63ecfd;
+	font-size: 20px;
+	text-shadow: 0 0 5px rgba(99, 236, 253, 0.9);
+}
