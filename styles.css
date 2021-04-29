@@ -8,9 +8,6 @@ body {
     height: 100%;
     cursor: url("global_files/cursors/cursor.cur");
 }
-html {
-    cursor: url("global_files/cursors/cursor.cur");
-}
 #center {
     text-align: center;
     margin: 0 auto;
