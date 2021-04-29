@@ -6,10 +6,10 @@ body {
     background-size: cover;
     background-position: center -10px;
     height: 100%;
-    cursor: url("global_files/cursors/cursor.cur"), pointer;
+    cursor: url("global_files/cursors/cursor.cur"), auto;
 }
 html {
-    cursor: url("global_files/cursors/cursor.cur"), pointer;
+    cursor: url("global_files/cursors/cursor.cur"), auto;
 }
 #center {
     text-align: center;
