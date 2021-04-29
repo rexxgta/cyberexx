@@ -4,8 +4,12 @@ body {
     background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center -10px;
     height: 100%;
-    cursor: url("global_files/cursors/cursor.cur"), pointer;
+    cursor: url("global_files/cursors/cursor.cur");
+}
+html {
+    cursor: url("global_files/cursors/cursor.cur");
 }
 #center {
     text-align: center;
@@ -57,31 +61,29 @@ body {
     box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
 }
 #topline {
-	position: fixed;
-	display: inline-block;
-	top: 0;
+    position: absolute;
+    display: inline-block;
+    top: 0;
     width: 584px;
     height: 2px;
     background-color: #63ecfd;
     margin: auto;
-	margin-top: 250px;
+    margin-top: 250px;
     box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
-    
 }
 #bottomline {
-	position: fixed;
-	display: inline-block;
-	top: 0;
+    position: absolute;
+    display: inline-block;
+    top: 0;
     width: 584px;
     height: 2px;
     background-color: #63ecfd;
     margin: auto;
-	margin-top: 788px;
+    margin-top: 788px;
     box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
-    
 }
 #maintextcss {
-	color: #63ecfd;
-	font-size: 20px;
-	text-shadow: 0 0 5px rgba(99, 236, 253, 0.9);
+    color: #63ecfd;
+    font-size: 20px;
+    text-shadow: 0 0 5px rgba(99, 236, 253, 0.9);
 }
