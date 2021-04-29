@@ -6,7 +6,7 @@ body {
     background-size: cover;
     background-position: center -10px;
     height: 100%;
-    cursor: url("global_files/cursors/cursor.cur");
+    cursor: url("global_files/cursors/cursor.cur"), pointer;
 }
 #center {
     text-align: center;
