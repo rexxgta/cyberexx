@@ -82,7 +82,7 @@ html {
     margin-top: 788px;
     box-shadow: 0 0 3px 1px rgba(99, 236, 253, 0.5);
 }
-#maintextcss {
+.maintextcss {
     color: #63ecfd;
     font-size: 20px;
     text-shadow: 0 0 5px rgba(99, 236, 253, 0.9);
