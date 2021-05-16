@@ -3,9 +3,10 @@ body {
     background-image: url("https://github.com/rexxgta/cyberworld/blob/main/global_files/screen_image.png?raw=true"), url("https://github.com/rexxgta/cyberworld/blob/main/global_files/judys_workspace_judys_apartment.png?raw=true");
     background-color: black;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-position: center -10px;
-    height: 100%;
+    width: 100%;
+    height: auto;
     cursor: url("global_files/cursors/cursor.cur"), auto;
 }
 html {
