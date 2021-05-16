@@ -6,7 +6,6 @@ body {
     background-size: cover;
     background-position: center -10px;
     width: 100%;
-    height: auto;
     cursor: url("global_files/cursors/cursor.cur"), auto;
 }
 html {
